@@ -159,4 +159,8 @@ void ControlloDistanza2()
 {
   distanza2 = Dist.getDistanceCentimeter();
 }
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> 87a8027af1a575fd285c2d7ec9134fbf059393ca
